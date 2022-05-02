@@ -41,7 +41,7 @@ Tipos de Sistemas Operacionais
     - Monousuário
     - Multiusuário
 
-![multitarefa](./multitarefa.PNGs)
+![multitarefa](./multitarefa.PNG)
 
 - Podem ser:
 
